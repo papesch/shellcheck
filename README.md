@@ -18,7 +18,7 @@ $ file ./shellcheck.exe
 
 Rough outline of build steps in Windows 10
 
-1. Get MSYS2
+1. Get [MSYS2, via these steps](https://gist.github.com/papesch/b401aa68d0a7c7c96095fa64a7c9f684)
 2. Run `Mingw-w64 64bit`
 3. Get `python3` and `pip` via pacman
 4. Get `cabal` via pip
